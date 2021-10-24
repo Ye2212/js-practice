@@ -1,1 +1,2 @@
-# js-practice
+ <!-- js-practice -->
+ <!-- задачи 1, 2, 3 -->
